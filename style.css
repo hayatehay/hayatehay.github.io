@@ -1,0 +1,74 @@
+body {
+	margin:6px 0 0 0;
+	padding:0;
+	font: 12px/1.6 "Noto Sans CJK JP", "Noto Serif CJK JP";
+	color: #c0ffff;
+	background-color: #234;
+}
+td {
+	font: 12px/1.6 "Noto Sans CJK JP", "Noto Serif CJK JP";
+	color: #c0ffff;
+}
+td.node {
+	height: 48px;
+	text-align: center;
+	font-weight: bold;
+}
+td.info {
+	padding: 0 48px;
+}
+th {
+	font-size: 19px
+	font-weight: bold;
+	text-align: center;
+	background-color: #444;
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #00d090;
+}
+a:visited {
+	color: #00d090;
+}
+a:active {
+	color: #90ffff;
+}
+a:hover {
+	background-color: #345;
+	text-decoration: underline;
+}
+s {
+	font-weight: bold;
+	color: #e84890;
+	text-decoration: none
+}
+strong {
+	font-size: 32px;
+	color: #58d090;
+}
+u {
+	font-weight: bold;
+	font-size: 16px;
+	color: #409aff;
+	text-decoration: none
+}
+.red {
+	color: #e84890;
+}
+.cps {
+	color: #ffd090;
+	background-color: #666;
+}
+hr{
+	color:none;
+	background-color:none;
+	border:none;
+	height:1px;
+	border-top:1px dotted #888;
+}
+
+
+input[type=image]       {margin:0 1px 1px 0; vertical-align:middle;}
+input[type=image]:active{margin:1px 0 0 1px;}
