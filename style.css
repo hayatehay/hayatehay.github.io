@@ -1,12 +1,12 @@
 body {
 	margin:6px 0 0 0;
 	padding:0;
-	font: 12px/1.6 "Noto Sans CJK JP", "Noto Serif CJK JP";
+	font: 12px/1.6 "Noto Sans CJK JP";
 	color: #c0ffff;
 	background-color: #234;
 }
 td {
-	font: 12px/1.6 "Noto Sans CJK JP", "Noto Serif CJK JP";
+	font: 12px/1.6 "Noto Sans CJK JP";
 	color: #c0ffff;
 }
 td.node {
