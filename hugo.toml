@@ -5,7 +5,7 @@ defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 title = 'はやてにっき'
 theme = 'ananke'
-copyright = 'NAKA-MURA Hayate'
+copyright = '(C) 2023-2024 Jin ASA-NAMI'
 
 [markup.goldmark.renderer]
 unsafe = true
