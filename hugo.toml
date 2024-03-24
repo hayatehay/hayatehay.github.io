@@ -1,38 +1,59 @@
-baseURL = 'https://hayatehay.github.io/blog/'
+baseURL = 'https://hayatehay.github.io/'
 languageCode = 'ja'
 languageName = 'Japanese'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
-title = '麻浪迅の素敵な日々'
-theme = 'ananke'
+title = '麻浪迅のホームページ'
+theme = 'coder'
 copyright = '(C) 2023-2024 Jin ASA-NAMI'
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [params]
-text_color = 'dark-gray'
-background_color_class = 'bg-navy'
-author = 'NAKA-MURA Hayate'
-favicon = '/blog/images/common/logo.png'
-site_logo = '/blog/images/common/logo.png'
+author = 'Jin Asanami'
+info = ["麻浪迅のホームページにようこそ！"]
+favicon = 'images/common/logo.png'
+avatarURL = 'images/common/logo.png'
+dateFormat = "2006-01-02"
+since = 2022
 
-[[params.ananke_socials]]
-name = 'Misskey'
-url  = 'https://misskey.io/@hayatehay'
+[[menu.main]]
+name = "NEWS"
+weight = 1
+url = "news/"
 
-[[params.ananke_socials]]
-name = 'Mastodon'
-url  = 'https://fedibird.com/@hayatehay'
+[[menu.main]]
+name = "BIO"
+weight = 2
+url = "bio/"
 
-[[params.ananke_socials]]
-name = 'GitHub'
-url  = 'https://github.com/hayatehay/'
+[[menu.main]]
+name = "MUSIC"
+weight = 3
+url = "music/"
 
-[[params.ananke_socials]]
-name = 'Instagram'
-url  = 'https://instagram.com/hay_nh521/'
+[[menu.main]]
+name = "BLOG"
+weight = 4
+url = "blog/"
 
-[[params.ananke_socials]]
-name = 'ウェブサイトに戻る'
-url  = 'https://hayatehay.github.io/'
+[[menu.main]]
+name = "WORKS"
+weight = 5
+url = "works/"
+
+[[menu.main]]
+name = "EVENT"
+weight = 6
+url = "event/"
+
+[[menu.main]]
+name = "LINK"
+weight = 7
+url = "link/"
+
+[[menu.main]]
+name = "CONTACT"
+weight = 8
+url = "contact/"
