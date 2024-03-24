@@ -36,19 +36,19 @@ weight = 3
 url = "music/"
 
 [[menu.main]]
-name = "BLOG"
-weight = 4
-url = "blog/"
-
-[[menu.main]]
 name = "WORKS"
-weight = 5
+weight = 4
 url = "works/"
 
 [[menu.main]]
 name = "EVENT"
-weight = 6
+weight = 5
 url = "event/"
+
+[[menu.main]]
+name = "BLOG"
+weight = 6
+url = "blog/"
 
 [[menu.main]]
 name = "LINK"
