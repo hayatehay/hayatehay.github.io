@@ -7,7 +7,8 @@ title: 'MUSIC'
 {{< figure src="/images/music/njch-1.png" alt="NJCH-1" position="left" width="240" height="240" >}}
 （CD-EXTRA 12cm）**2024年内発売予定**<br>
 <br>
-発売元：エヌ・ジェー・ビー音盤<br>
+制作：エヌ・ジェー・ビー音盤<br>
+発売：一般社団同人中村音楽工業<br>
 品番：NJCH-1<br>
 価格：1,000円（税込み）
 
@@ -24,4 +25,4 @@ title: 'MUSIC'
 
 All songs are composed and arranged by Jin Asa-nami.
 
-[体験版 (FLAC 48kHz/24bit)](https://njb-fm.github.io/media/njch-1-sample.flac)
+[体験版 (FLAC 48kHz/24bit)](https://nmimusic.github.io/media/njch-1-sample.flac)
