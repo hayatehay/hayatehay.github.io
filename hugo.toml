@@ -13,8 +13,8 @@ unsafe = true
 [params]
 author = 'Jin Asanami'
 info = ["麻浪迅のホームページにようこそ！"]
-favicon = '/images/common/logo.png'
-avatarURL = '/images/common/logo.png'
+favicon = '/img/common/logo.png'
+avatarURL = '/img/common/logo.png'
 colorScheme = "auto"
 hideColorSchemeToggle = true
 dateFormat = "2006-01-02"
@@ -59,3 +59,4 @@ url = "link/"
 name = "CONTACT"
 weight = 8
 url = "contact/"
+
