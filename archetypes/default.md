@@ -1,7 +1,7 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: {{ .Date }}
-featured_image: /images/{{ replace .File.ContentBaseName "-" " " | title }}/thumb.png
+featured_image: /img/{{ replace .File.ContentBaseName "-" " " | title }}/thumb.png
 draft: true
 categories:
 - category

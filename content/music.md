@@ -4,7 +4,7 @@ title: 'MUSIC'
 
 # DISC
 ## 月影
-{{< figure src="/images/music/njch-1.png" alt="NJCH-1" position="left" width="240" height="240" >}}
+{{< figure src="/img/music/njch-1.png" alt="NJCH-1" position="left" width="240" height="240" >}}
 （CD-EXTRA 12cm）**2024年内発売予定**<br>
 <br>
 制作：エヌ・ジェー・ビー音盤<br>
