@@ -13,13 +13,40 @@ unsafe = true
 [params]
 author = 'Jin Asanami'
 info = ["麻浪迅のホームページにようこそ！"]
-favicon = '/img/common/logo.png'
-avatarURL = '/img/common/logo.png'
+favicon = '/img/logo.png'
+avatarURL = '/img/logo.png'
 colorScheme = "auto"
 hideColorSchemeToggle = true
 dateFormat = "2006-01-02"
 since = 2022
+custom_css = ["/css/icons.css"]
 
+[[params.social]]
+  name = "Misskey.io"
+  weight = 1
+  url = "https://misskey.io/@hayatehay"
+
+[[params.social]]
+  name = "9ineverse.com"
+  weight = 2
+  url = "https://9ineverse.com/@hayatehay"
+
+[[params.social]]
+  name = "fedibird.com"
+  weight = 3
+  url = "https://fedibird.com/@hayatehay"
+
+[[params.social]]
+  name = "Threads"
+  weight = 4
+  url = "https://www.threads.net/@hayatehay_njb"
+
+[[params.social]]
+  name = "GitHub"
+  weight = 5
+  url = "https://github.com/hayatehay/"
+
+[menu]
 [[menu.main]]
 name = "NEWS"
 weight = 1
