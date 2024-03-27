@@ -25,4 +25,4 @@ title: 'MUSIC'
 
 All songs are composed and arranged by Jin Asa-nami.
 
-[体験版 (FLAC 48kHz/24bit)](https://nmimusic.github.io/media/njch-1-sample.flac)
+[体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
