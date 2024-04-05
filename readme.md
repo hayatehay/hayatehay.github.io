@@ -1,7 +1,7 @@
-# Hayate Nikki
+# hayatehay.github.io
 ----
 # How to post the article
 ```bash
-hugo new post/(yyyymmdd).md
+hugo new blog/$(date %Y%m%d).md
 ```
 

@@ -8,6 +8,6 @@ categories:
 tags:
 - category
 comments: false
-shouMeta: true
+showMeta: true
 showActions: false
 ---
