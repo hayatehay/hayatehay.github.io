@@ -10,7 +10,7 @@ title: 'MUSIC'
 制作：ナカムラミュージックレコーズ<br>
 発売：一般社団同人中村音楽工業<br>
 品番：NRCH-1<br>
-価格：1,000円（税込み）
+価格：1,500円（税込み）
 
 麻浪迅のデビュー盤。ジャズのようなスカのような「月影」、ピアノ主体の「egret」他3曲を収録。<br>
 通常のCDプレイヤーで再生できるCD-DA領域と、全楽曲のハイレゾ(48kHz/24bit)FLACを収録したエクストラ領域の豪華2本立て。<br>
@@ -26,3 +26,4 @@ title: 'MUSIC'
 All songs are composed and arranged by Jin Asanami.
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
+
