@@ -5,7 +5,7 @@ title: 'MUSIC'
 # DISC
 ## 月影
 {{< figure src="/img/music/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
-（CD-EXTRA 12cm）**2024年内発売予定**<br>
+（CD-EXTRA 12cm）**2024年7月9日発売予定**<br>
 <br>
 制作：ナカムラミュージックレコーズ<br>
 発売：一般社団同人中村音楽工業<br>
