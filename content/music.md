@@ -5,6 +5,11 @@ title: 'MUSIC'
 # DISC
 ## 月影
 {{< figure src="/img/music/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
+
+[NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
+
+[体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
+
 （CD-EXTRA 12cm）**2024年7月9日発売予定**<br>
 <br>
 制作：ナカムラミュージックレコーズ<br>
@@ -24,6 +29,3 @@ title: 'MUSIC'
 - 重なる想い (4:36)
 
 All songs are composed and arranged by Jin Asanami.
-
-[体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
-

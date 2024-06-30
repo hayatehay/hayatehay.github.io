@@ -22,14 +22,14 @@ since = 2022
 custom_css = ["/css/icons.css"]
 
 [[params.social]]
+  name = "9ineverse.com"
+  weight = 1
+  url = "https://9ineverse.com/@hayatehay"
+
+[[params.social]]
   name = "Misskey.io"
   weight = 1
   url = "https://misskey.io/@hayatehay"
-
-[[params.social]]
-  name = "9ineverse.com"
-  weight = 2
-  url = "https://9ineverse.com/@hayatehay"
 
 [[params.social]]
   name = "fedibird.com"
