@@ -10,7 +10,7 @@ title: 'MUSIC'
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
-（CD-EXTRA 12cm）**2024年7月9日発売予定**<br>
+（CD-EXTRA 12cm）**2024年7月7日発売予定**(7月1日より予約受付開始)<br>
 <br>
 制作：ナカムラミュージックレコーズ<br>
 発売：一般社団同人中村音楽工業<br>
