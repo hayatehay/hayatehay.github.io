@@ -4,7 +4,8 @@ title: 'NEWS'
 
 # WHAT'S NEW
 ## 2024/06/30 1st EP「月影」の発売日が決定
-2024年7月9日の予定です。みんな買ってね！んで友達にも勧めてね！<br>
+2024年7月7日の予定です。みんな買ってね！んで友達にも勧めてね！<br>
+予約は7月1日から受け付け中。<br>
 [販売ページ(NMI MUSIC STORE/BOOTH)](https://nmimusic.booth.pm/items/5865685)
 
 
