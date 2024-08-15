@@ -13,7 +13,8 @@ unsafe = true
 [params]
 author = 'Jin Asanami'
 info = ["麻浪迅のホームページにようこそ！"]
-favicon = '/img/logo.png'
+favicon_32 = '/img/logo32.png'
+favicon_16 = '/img/logo16.png'
 avatarURL = '/img/logo.png'
 colorScheme = "auto"
 hideColorSchemeToggle = true
