@@ -8,6 +8,8 @@ title: 'MUSIC'
 
 [NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
 
+[メロンブックス通販](https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472)もしくは全国の店舗
+
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
 （CD-EXTRA 12cm）**2024年7月7日発売**<br>
