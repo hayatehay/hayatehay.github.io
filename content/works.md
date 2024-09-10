@@ -7,15 +7,15 @@ title: 'WORKS'
 ---
 
 # 現在のお仕事
-## 浮かぶ雪雲、恋模様。
+## RURH-1(同棲純愛ゲーム)
+- 依頼元: 中村音楽工業
+- 担当: グラフィック以外全部
+
+## RURH-2(ヒロインが3人いる純愛ゲームの予定)
 - 依頼元: 中村音楽工業
 - 担当: グラフィック以外全部
 
 ## Kamuriki Linux
-- 依頼元: 中村音楽工業
-- 担当: 上流リポジトリのパッケージ製作以外全部
-
-## Alis Linux/GNU/X
 - 依頼元: 中村音楽工業
 - 担当: 上流リポジトリのパッケージ製作以外全部
 
@@ -42,6 +42,6 @@ title: 'WORKS'
 - 依頼元: YK Linux Developers Team
 - 担当: 開発監修 / アドバイス / ブートスプラッシュ作成
 
-## Univalent Versatile Environment
+## Univalent Versatile Environment→Alis Linux/GNU/X
 - 依頼元: 新日本放送→中村音楽工業
 - 担当: 上流リポジトリのパッケージ製作以外全部 
