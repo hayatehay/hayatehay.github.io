@@ -33,14 +33,14 @@ custom_css = ["/css/icons.css"]
   url = "https://misskey.io/@hayatehay"
 
 [[params.social]]
-  name = "fedibird.com"
+  name = "Misskey.design"
   weight = 3
-  url = "https://fedibird.com/@hayatehay"
+  url = "https://misskey.design/@hayatehay"
 
 [[params.social]]
-  name = "Threads"
+  name = "Soundcloud"
   weight = 4
-  url = "https://www.threads.net/@hayatehay_njb"
+  url = "https://soundcloud.com/hayatehay"
 
 [[params.social]]
   name = "GitHub"
@@ -69,22 +69,27 @@ weight = 4
 url = "works/"
 
 [[menu.main]]
-name = "EVENT"
+name = "SAMPLE"
 weight = 5
+url = "sample/"
+
+[[menu.main]]
+name = "EVENT"
+weight = 6
 url = "event/"
 
 [[menu.main]]
 name = "BLOG"
-weight = 6
+weight = 7
 url = "blog/"
 
 [[menu.main]]
 name = "LINK"
-weight = 7
+weight = 8
 url = "link/"
 
 [[menu.main]]
 name = "CONTACT"
-weight = 8
+weight = 9
 url = "contact/"
 
