@@ -29,7 +29,7 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 # Threads
 あまり出没しないが、フェディヴァース実験に参加している。<br>
 ActivityPubプロトコルを使う他のSNSと繋がる場合がある。
-- [@hayatehay_njb@threads.net](https://www.threads.net/@hayatehay_njb)
+- [@jinasanami@threads.net](https://www.threads.net/@jinasanami)
 
 # サウンドクラウド
 CDの体験版。ダウンロードもできるようにしてある。
@@ -37,7 +37,7 @@ CDの体験版。ダウンロードもできるようにしてある。
 
 # Instagram
 極稀に写真を投稿する。
-- [@hayatehay_njb](https://www.instagram.com/hayatehay_njb)
+- [@jinasanami](https://www.instagram.com/jinasanami)
 
 # Bluesky
 「bsky.social」サーバーにアカウントがあるが、あまり出没しない。<br>
@@ -51,3 +51,8 @@ ATプロトコルにより他のSNSと繋がる場合がある。
 # <s>ディスコ踊</s>Discord
 あたしと1対1で対話したい場合はここで。音声通話にも対応しているらしい。
 - [@hayatehay](https://discordapp.com/users/700138315889901650)
+
+# エックス(旧ツイッター)
+偽物対策。IVEのライブを観に行った話は9ineverseと並行で。
+- [@hayatehay](https://x.com/hayatehay)
+
