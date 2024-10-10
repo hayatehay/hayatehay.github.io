@@ -2,16 +2,32 @@
 title: 'EVENT'
 ---
 
+特記のない限りオリジナル曲。
+
+# 2024/12/14 pictSQUARE 9ineverse非公式オンリーイベント
+デモ楽曲を3曲無料公開予定。
+
+曲目
+- 月影
+- ネオン
+- 触れて
+
+# 2024/10/20 長野工業高専 工嶺祭
+長野高専ピアノ同好会として11時頃より出演。
+
+曲目
+- IVE「oblivion」
+
 # 2023/10/22 長野工業高専 工嶺祭
 長野高専の文化祭「工嶺祭」2日目の昼ステージに11:15から出演。パラパラを踊った。
 
 曲目
-- If you were here
-- Belvedia
-- Lunar Dance -S.P.R. Mix-
+- IVE「If you were here」
+- IVE「Belvedia」
+- C.G mix「Lunar Dance -S.P.R. Mix-」
 
 # 2023/07/01 長野市立長野高校 璃翔祭
 長野高専ピアノ同好会として13時頃より出演。
 
 曲目
-- flow ～水の生まれた場所～
+- IVE「flow ～水の生まれた場所～」
