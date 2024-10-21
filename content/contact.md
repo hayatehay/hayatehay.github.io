@@ -20,6 +20,7 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@misskey.design](https://misskey.design/@hayatehay)
 - [@hayatehay@nijimiss.moe](https://nijimiss.moe/@hayatehay)
 - [@hayatehay@sushi.ski](https://sushi.ski/@hayatehay)
+- [@hayatehay@misskey.doujin.games](https://misskey.doujin.games/@hayatehay)
 
 # Mastodon
 「fedibird.com」サーバーにアカウントがあるが、あまり出没しない。<br>
