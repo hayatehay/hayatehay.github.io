@@ -12,8 +12,7 @@ GMailを使用。<s>お仕事の依頼や</s>QSL発行はこちらへ。<br>
 - hayatehay.njb at gmail.com
 
 # Misskey
-現在私がメインで使用するSNS。「9ineverse.com」「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」にアカウントがある。<br>
-主に出没するのは前2者。<br>
+現在私がメインで使用するSNS。メインで使用する「9ineverse.com」の他、「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」にアカウントがある。<br>
 ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@9ineverse.com](https://9ineverse.com/@hayatehay)
 - [@hayatehay@misskey.io](https://misskey.io/@hayatehay)
