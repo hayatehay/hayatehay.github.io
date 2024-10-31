@@ -32,7 +32,7 @@ ActivityPubプロトコルを使う他のSNSと繋がる場合がある。
 - [@jinasanami@threads.net](https://www.threads.net/@jinasanami)
 
 # サウンドクラウド
-CDの体験版。ダウンロードもできるようにしてある。
+CDの体験版とかデモ曲とか。一部楽曲はダウンロードもできるようにしてある。
 - [@hayatehay](https://soundcloud.com/hayatehay)
 
 # Instagram
@@ -55,4 +55,3 @@ ATプロトコルにより他のSNSと繋がる場合がある。
 # エックス(旧ツイッター)
 偽物対策。IVEのライブを観に行った話は9ineverseと並行で。
 - [@hayatehay](https://x.com/hayatehay)
-
