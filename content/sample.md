@@ -10,7 +10,7 @@ title: 'SAMPLE MUSIC'
 
 2024年7月7日発売
 
-- [月影 (moonlight.mp3 MP3 VBR 0 8.4MB) **10月31日まで無料公開**](https://soundcloud.com/hayatehay/moonlight)
+- ~~月影 (moonlight.mp3 MP3 VBR 0 8.4MB)~~ **公開終了**
 - [全曲クロスフェード(tsukikage_sample.flac FLAC 8 17.2MB)](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
 ### CDを購入する
