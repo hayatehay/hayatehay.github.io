@@ -3,8 +3,12 @@ title: 'NEWS'
 ---
 
 # WHAT'S NEW
+## 2024/11/07 Skeb開設
+コミッションサービス「Skeb」にアカウントを作りました！ご依頼お待ちしております…。
+[@hayatehay - Skeb](https://skeb.jp/@hayatehay)
+
 ## 2024/10/05 「月影」MP3無料ダウンロードのご案内
-販促のため、MP3ファイルをサウンドクラウドに公開しました→https://soundcloud.com/hayatehay/moonlight<br>
+販促のため、MP3ファイルをサウンドクラウドに公開しました→~~https://soundcloud.com/hayatehay/moonlight~~公開終了しました<br>
 ダウンロードの際は「More」→「Download File」を選んで下さい。<br>
 
 対象楽曲

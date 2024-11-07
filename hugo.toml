@@ -43,9 +43,9 @@ custom_css = ["/css/icons.css"]
   url = "https://soundcloud.com/hayatehay"
 
 [[params.social]]
-  name = "GitHub"
+  name = "Skeb"
   weight = 5
-  url = "https://github.com/hayatehay/"
+  url = "https://skeb.jp/@hayatehay"
 
 [menu]
 [[menu.main]]
