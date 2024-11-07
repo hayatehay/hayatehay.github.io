@@ -8,8 +8,13 @@ title: 'CONTACT'
 
 # 電子メール
 GMailを使用。<s>お仕事の依頼や</s>QSL発行はこちらへ。<br>
-**<font color="#ff0000">※現在お仕事は受け付けておりません。</font>**
+**<font color="#ff0000">※現在メールでのお仕事は受け付けておりません。</font>**
 - hayatehay.njb at gmail.com
+
+# Skeb
+コミッションサービス。1曲単位で請け負うため、イベントなどのテーマ曲の作曲依頼に最適？<br>
+逆にゲームのBGMなどといった複数楽曲の依頼にはあまり適合しない。
+- [@hayatehay](https://skeb.jp/@hayatehay)
 
 # Misskey
 現在私がメインで使用するSNS。メインで使用する「9ineverse.com」の他、「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」にアカウントがある。<br>
