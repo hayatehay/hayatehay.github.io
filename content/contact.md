@@ -27,8 +27,9 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@misskey.doujin.games](https://misskey.doujin.games/@hayatehay)
 
 # Mastodon
-「fedibird.com」サーバーにアカウントがあるが、あまり出没しない。<br>
+「Mastodon.social」と「fedibird.com」サーバーにアカウントがあるが、あまり出没しない。<br>
 ActivityPubプロトコルにより他のSNSと繋がる場合がある。
+- [@hayatehay@mastodon.social](https://mastodon.social/@hayatehay)
 - [@hayatehay@fedibird.com](https://fedibird.com/@hayatehay)
 
 # Threads
