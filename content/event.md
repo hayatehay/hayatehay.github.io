@@ -8,7 +8,7 @@ title: 'EVENT'
 デモ楽曲を3曲無料公開予定。
 
 曲目
-- 月影
+- blank -lounge at 22 o'clock remix-
 - ネオン
 - 触れて
 
