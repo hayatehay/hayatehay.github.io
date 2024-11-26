@@ -1,6 +1,6 @@
 ---
 title: 'EP「月影」[DVD-Audio Hybrid]'
-date: 2024-12-07T00:00:00+09:00
+date: 2024-11-26T00:00:00+09:00
 categories:
 - MUSIC
 comments: false
@@ -11,7 +11,7 @@ showActions: false
 {{< figure src="/img/music/nrah-1.png" alt="NRAH-1" position="left" width="240" height="240" >}}
 
 # 詳細
-- 発売：2024年12月7日
+- 発売：2024年12月7日(予定)
 - 品番：NRAH-1
 - 価格：1,870円（税込み）
 - ISDN：申請予定
