@@ -1,8 +1,10 @@
 ---
-title: 'ダウンロード限定シングル「月影」[MP3 VBR 0]'
+title: 'ダウンロード限定シングル「DEMO 2024 DEC」[MP3 VBR 0]'
 date: 2024-11-26T00:00:00+09:00
 categories:
 - MUSIC
+tags:
+- ダウンロード
 comments: false
 showMeta: true
 showActions: false
@@ -17,10 +19,6 @@ showActions: false
 - ISDN：申請予定
 - 制作：ナカムラミュージックレコーズ
 - 発売：一般社団同人中村音楽工業
-
-# 概要
-EP「月影」収録の「blank」のジャズリミックスを含むデモ楽曲を3曲収録。<br>
-「9ineverse非公式オンリーイベント オンラインオフ会」にて限定配布。
 
 # 収録曲順
 - blank -lounge at 22 o'clock remix- (3:44)
