@@ -19,6 +19,7 @@ showActions: false
 - ISDN：申請予定
 - 制作：ナカムラミュージックレコーズ
 - 発売：一般社団同人中村音楽工業
+- 体験版（サウンドクラウド）：[demo-2024-dec-crossfade-demo](https://soundcloud.com/hayatehay/demo-2024-dec-crossfade-demo)
 
 # 収録曲順
 - blank -lounge at 22 o'clock remix- (3:44)
