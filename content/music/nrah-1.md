@@ -22,8 +22,7 @@ showActions: false
 - 体験版（サウンドクラウド）：[tsukikage-crossfade](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
 # 購入
-- NMI MUSIC STORE (準備中)
-<!-- - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6320823) -->
+- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6320823)
 
 # 収録曲順
 - 月影 (4:04)
