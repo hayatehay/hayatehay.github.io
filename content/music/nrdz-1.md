@@ -1,6 +1,6 @@
 ---
 title: 'ダウンロード限定シングル「DEMO 2024 DEC」[MP3 VBR 0]'
-date: 2024-11-26T00:00:00+09:00
+date: 2024-12-14T00:00:00+09:00
 categories:
 - MUSIC
 tags:
@@ -13,7 +13,7 @@ showActions: false
 {{< figure src="/img/music/nrdz-1.png" alt="NRDZ-1" position="left" width="240" height="240" >}}
 
 # 詳細
-- 公開：2024年12月14日(予定)
+- 公開：2024年12月14日
 - 品番：NRDZ-1
 - 価格：無料
 - ISDN：申請予定
