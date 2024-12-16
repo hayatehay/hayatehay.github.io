@@ -51,6 +51,10 @@ CDの体験版とかデモ曲とか。一部楽曲はダウンロードもでき
 ATプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay.bsky.social](https://bsky.app/profile/hayatehay.bsky.social)
 
+# mixi2
+取り敢えず登録だけした。あんまり出没しないかも。
+- [@hayatehay](https://mixi.social/@hayatehay)
+
 # GitHub
 「ソースコードよこせ！」って人はここから。ライセンスをしっかり守ってね。
 - [@hayatehay](https://github.com/hayatehay)
