@@ -16,7 +16,7 @@ showActions: false
 - 公開：2024年12月14日
 - 品番：NRDZ-1
 - 価格：無料
-- ISDN：申請予定
+- ISDN：[278-4-861670-05-0](https://isdn.jp/2784861670050)
 - 制作：ナカムラミュージックレコーズ
 - 発売：一般社団同人中村音楽工業
 - 体験版（サウンドクラウド）：[demo-2024-dec-crossfade-demo](https://soundcloud.com/hayatehay/demo-2024-dec-crossfade-demo)
