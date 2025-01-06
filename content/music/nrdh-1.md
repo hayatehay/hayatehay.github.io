@@ -10,6 +10,8 @@ showMeta: true
 showActions: false
 ---
 
+{{< figure src="/img/music/nrdh-1.png" alt="NRDH-1" position="left" width="240" height="240" >}}
+
 # 詳細
 - 発売：2024年7月14日
 - 品番：NRDH-1
