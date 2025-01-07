@@ -10,7 +10,7 @@ showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/music/nrdz-1.png" alt="NRCZ-1" position="left" width="240" height="240" >}}
+{{< figure src="/img/music/nrcz-1.png" alt="NRCZ-1" position="left" width="240" height="240" >}}
 
 # 詳細
 - 発売：2024年12月21日
