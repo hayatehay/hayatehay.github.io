@@ -16,8 +16,13 @@ showActions: false
 - 発売：2024年7月14日
 - 品番：NRDH-1
 - 価格：サイト毎に異なる
+- ISDN：[278-4-861670-02-9](https://isdn.jp/2784861670029)
+- 制作：ナカムラミュージックレコーズ
+- 発売：一般社団同人中村音楽工業
+- 体験版（サウンドクラウド）：[sunrise-colours-second-track-demo](https://soundcloud.com/hayatehay/sunrise-colours-second-track-demo)
 
-<details 販売サイト毎の価格>
+# 販売サイト毎の価格
+<details>
 **NMI MUSIC STORE (消費税込み)**
 - MP3 VBR 0 …275円
 - FLAC 44.1kHz 16bit …440円
@@ -34,11 +39,6 @@ showActions: false
 **メロンブックス (消費税込み)**
 - FLAC 44.1kHz/16bit …440円
 </details>
-
-- ISDN：[278-4-861670-02-9](https://isdn.jp/2784861670029)
-- 制作：ナカムラミュージックレコーズ
-- 発売：一般社団同人中村音楽工業
-- 体験版（サウンドクラウド）：[sunrise-colours-second-track-demo](https://soundcloud.com/hayatehay/sunrise-colours-second-track-demo)
 
 # 購入
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
