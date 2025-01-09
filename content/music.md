@@ -15,6 +15,14 @@ title: 'MUSIC'
 
 # CD-EXTRA
 <!--
+## 2025年??月??日(??)<br>2ndシングル「[Alma/哀流](https://nmimusic.github.io/music/nrcj-2)」
+
+{{< figure src="/img/music/nrcj-2.png" alt="NRCJ-2" position="left" width="240" height="240" >}}
+
+- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 品番：NRCJ-2
+- 価格：￥770+消費税
+
 ## 2025年??月??日(??)<br>1stシングル「[瑠璃空/月影](https://nmimusic.github.io/music/rurh-1)」
 
 {{< figure src="/img/music/rucy-1.png" alt="RUCY-1" position="left" width="240" height="240" >}}
@@ -41,6 +49,15 @@ title: 'MUSIC'
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRCH-1
 - 価格：￥1,500+消費税
+
+# ミュージックカード
+## 2025年1月10日(金)<br>シングル「[朝焼け -second track-](https://nmimusic.github.io/music/nrmh-1)」
+
+{{< figure src="/img/music/nrmh-1.png" alt="NRMH-1" position="left" width="240" >}}
+
+- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 品番：NRMH-1
+- 価格：￥440+消費税
 
 # 配信限定
 ## 2024年7月14日(日)<br>配信シングル「[朝焼け -second track-](https://nmimusic.github.io/music/nrdh-1)」
