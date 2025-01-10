@@ -3,6 +3,10 @@ title: 'NEWS'
 ---
 
 # WHAT'S NEW
+## 2025/01/10 Bandcamp配信開始
+音楽配信プラットフォーム「Bandcamp」にて、「月影」「朝焼け -second track-」「DEMO 2024 DEC」の配信が始まりました！
+[Jin Asanami/麻浪迅 - Bandcamp](https://jinasanami.bandcamp.com/)
+
 ## 2024/11/07 Skeb開設
 コミッションサービス「Skeb」にアカウントを作りました！ご依頼お待ちしております…。
 [@hayatehay - Skeb](https://skeb.jp/@hayatehay)

@@ -28,23 +28,13 @@ custom_css = ["/css/icons.css"]
   url = "https://9ineverse.com/@hayatehay"
 
 [[params.social]]
-  name = "Misskey.io"
-  weight = 1
-  url = "https://misskey.io/@hayatehay"
-
-[[params.social]]
-  name = "Misskey.design"
-  weight = 3
-  url = "https://misskey.design/@hayatehay"
-
-[[params.social]]
-  name = "Soundcloud"
-  weight = 4
-  url = "https://soundcloud.com/hayatehay"
+  name = "Bandcamp"
+  weight = 2
+  url = "https://jinasanami.bandcamp.com/"
 
 [[params.social]]
   name = "Skeb"
-  weight = 5
+  weight = 3
   url = "https://skeb.jp/@hayatehay"
 
 [menu]
