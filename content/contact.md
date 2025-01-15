@@ -16,6 +16,10 @@ GMailを使用。<s>お仕事の依頼や</s>QSL発行はこちらへ。<br>
 逆にゲームのBGMなどといった複数楽曲の依頼にはあまり適合しない。
 - [@hayatehay](https://skeb.jp/@hayatehay)
 
+# Bandcamp
+音楽のダウンロード販売サイト。
+- [@jinasanami](https://jinasanami.bandcamp.com)
+
 # Misskey
 現在私がメインで使用するSNS。メインで使用する「9ineverse.com」の他、「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」にアカウントがある。<br>
 ActivityPubプロトコルにより他のSNSと繋がる場合がある。
@@ -25,7 +29,6 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@nijimiss.moe](https://nijimiss.moe/@hayatehay)
 - [@hayatehay@sushi.ski](https://sushi.ski/@hayatehay)
 - [@hayatehay@misskey.doujin.games](https://misskey.doujin.games/@hayatehay)
-- [@hayatehay@mi.nakn.jp](https://mi.nakn.jp/@hayatehay)
 
 # Mastodon
 「Mastodon.social」と「fedibird.com」サーバーにアカウントがあるが、あまり出没しない。<br>
