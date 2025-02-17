@@ -17,7 +17,26 @@ title: 'SAMPLE MUSIC'
 </details>
 
 ----
-# シングル「DEMO 2024 DEC」より
+# シングル「Alma/哀流」
+2025年3月5日発売予定
+
+- [全曲クロスフェード (alma-airu-xfade.flac FLAC 8 7.4MB)](https://soundcloud.com/hayatehay/alma-airu-crossfade-demo)
+
+## CD-EXTRA
+2月26日予約受け付け開始予定
+<!-- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605148) -->
+
+## ミュージックカード
+2月26日予約受け付け開始予定
+<!-- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491) -->
+
+## ダウンロード
+3月5日販売開始予定
+<!-- [Bandcamp](https://jinasanami.bandcamp.com/album/alma-airu) -->
+
+----
+
+# スペシャルシングル「DEMO 2024 DEC」
 2024年12月21日発売
 
 - [全曲クロスフェード (demo-2024-dec-xfade.flac FLAC 8 11.0MB)](https://soundcloud.com/hayatehay/demo-2024-dec-crossfade-demo)

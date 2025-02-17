@@ -15,15 +15,7 @@ title: 'MUSIC'
 
 # CD-EXTRA
 <!--
-## 2025年??月??日(??)<br>2ndシングル「[Alma/哀流](https://nmimusic.github.io/music/nrcj-2)」
-
-{{< figure src="/img/music/nrcj-2.png" alt="NRCJ-2" position="left" width="240" height="240" >}}
-
-- 発売元：中村音楽工業/ナカムラミュージックレコーズ
-- 品番：NRCJ-2
-- 価格：￥770+消費税
-
-## 2025年??月??日(??)<br>1stシングル「[瑠璃空/月影](https://nmimusic.github.io/music/rurh-1)」
+## 2025年??月??日(??)<br>3rdシングル「[瑠璃空/月影](https://nmimusic.github.io/music/rurh-1)」
 
 {{< figure src="/img/music/rucy-1.png" alt="RUCY-1" position="left" width="240" height="240" >}}
 
@@ -33,6 +25,14 @@ title: 'MUSIC'
 - 品番：RUCY-1
 - 価格：￥4,000+消費税(ゲーム本体との2枚組)
 -->
+
+## 2025年3月5日(水)予定<br>2ndシングル「[Alma/哀流](https://nmimusic.github.io/music/nrch-2)」
+
+{{< figure src="/img/music/nrch-2.png" alt="NRCH-2" position="left" width="240" height="240" >}}
+
+- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 品番：NRCH-2
+- 価格：￥1,000+消費税
 
 ## 2024年12月21日(土)<br>スペシャルシングル「[DEMO 2024 DEC](https://nmimusic.github.io/music/nrcz-1)」
 
@@ -51,21 +51,30 @@ title: 'MUSIC'
 - 価格：￥1,500+消費税
 
 # ミュージックカード
-## 2025年1月10日(金)<br>シングル「[朝焼け -second track-](https://nmimusic.github.io/music/nrmh-1)」
+## 2025年??月??日(??)<br>2ndシングル「[Alma/哀流](https://nmimusic.github.io/music/nrch-2)」
+
+{{< figure src="/img/music/nrmh-2.png" alt="NRMH-2" position="left" width="240" height="240" >}}
+
+- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 品番：NRCH-2
+- 価格：￥600+消費税
+
+## 2025年1月10日(金)<br>1stシングル「[朝焼け -second track-](https://nmimusic.github.io/music/nrmh-1)」
 
 {{< figure src="/img/music/nrmh-1.png" alt="NRMH-1" position="left" width="240" >}}
 
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRMH-1
-- 価格：￥440+消費税
+- 価格：￥400+消費税
 
-# 配信限定
-## 2024年7月14日(日)<br>配信シングル「[朝焼け -second track-](https://nmimusic.github.io/music/nrdh-1)」
+# ダウンロード販売
+## 2024年7月14日(日)<br>1stシングル「[朝焼け -second track-](https://nmimusic.github.io/music/nrdh-1)」
 
 {{< figure src="/img/music/nrdh-1.png" alt="NRDH-1" position="left" width="240" height="240" >}}
 
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRDH-1
+- 価格：￥400+消費税
 
 # DVDオーディオ
 ## 2024年12月7日(土)<br>1st EP「[月影](https://nmimusic.github.io/music/nrah-1)」
