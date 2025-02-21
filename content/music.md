@@ -19,7 +19,7 @@ title: 'MUSIC'
 
 {{< figure src="/img/music/rucy-1.png" alt="RUCY-1" position="left" width="240" height="240" >}}
 
-※ゲームソフト「癒やしたがりな彼女のいる日常」初回限定盤に付属
+※ゲームソフト「癒やしたがりな彼女のいる日常」初回限定盤(RUZH-1)に付属
 
 - 発売元：中村音楽工業/ルリタニアミュージックエンターテインメント
 - 品番：RUCY-1
@@ -51,7 +51,7 @@ title: 'MUSIC'
 - 価格：￥1,500+消費税
 
 # ミュージックカード
-## 2025年??月??日(??)<br>2ndシングル「[Alma/哀流](https://nmimusic.github.io/music/nrch-2)」
+## 2025年3月5日(??)<br>2ndシングル「[Alma/哀流](https://nmimusic.github.io/music/nrmh-2)」
 
 {{< figure src="/img/music/nrmh-2.png" alt="NRMH-2" position="left" width="240" height="240" >}}
 
