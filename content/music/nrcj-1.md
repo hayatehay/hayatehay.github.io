@@ -4,6 +4,7 @@ date: 2025-07-07
 image: "/img/music/nrcj-1.png"
 tags:
 - CD-DA
+- アルバム
 draft: true
 ---
 

@@ -4,6 +4,7 @@ date: 2024-07-07
 image: "/img/music/nrch-1.png"
 tags:
 - CDエクストラ
+- EP
 ---
 
 - 発売：2024年7月7日

@@ -4,6 +4,7 @@ date: 2024-12-07
 image: "/img/music/nrah-1.png"
 tags:
 - DVD-Audio
+- EP
 ---
 
 - 発売：2024年12月7日

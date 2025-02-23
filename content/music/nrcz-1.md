@@ -4,6 +4,7 @@ date: 2024-12-21
 image: "/img/music/nrcz-1.png"
 tags:
 - CDエクストラ
+- シングル
 ---
 
 - 発売：2024年12月21日
