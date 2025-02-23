@@ -1,4 +1,3 @@
 ---
-title: "BLOG"
+title: "日記"
 ---
-
