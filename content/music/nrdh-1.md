@@ -13,6 +13,8 @@ tags:
 - ダウンロード購入
     - [Bandcamp](https://jinasanami.bandcamp.com/album/sunrise-colours-second-track)
 
+**もう一つの朝焼け、麻浪迅 1stシングル。**
+
 EP「月影」収録の楽曲「朝焼け」を再編曲の上シングルカット。
 
 ## 収録曲
