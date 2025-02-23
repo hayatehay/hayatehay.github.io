@@ -57,6 +57,7 @@ url = "/contact/"
 
 [params]
 author = "Jin Asanami"
+description = "音楽家・麻浪迅の公式サイト。新時代のJ-Jazzシーンを切り開くのは、このあたしだ！"
 favicon = "/img/logo.png"
 colorScheme = "auto"
 hideColorSchemeToggle = true
