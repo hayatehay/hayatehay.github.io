@@ -1,0 +1,227 @@
+baseURL = "https://hayatehay.github.io/"
+languageCode = "ja-jp"
+title = "麻浪迅のホームページ"
+theme = "profile"
+enableRobotsTXT = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+page = [ "HTML", "RSS" ]
+
+[pagination]
+pagerSize = 3
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.main]]
+name = "BIO"
+weight = 1
+url = "/bio/"
+
+[[menu.main]]
+name = "MUSIC"
+weight = 2
+url = "/music/"
+
+[[menu.main]]
+name = "WORKS"
+weight = 3
+url = "/works/"
+
+[[menu.main]]
+name = "SAMPLE"
+weight = 4
+url = "/sample/"
+
+[[menu.main]]
+name = "EVENT"
+weight = 5
+url = "/event/"
+
+[[menu.main]]
+name = "BLOG"
+weight = 6
+url = "/blog/"
+
+[[menu.main]]
+name = "LINK"
+weight = 7
+url = "/link/"
+
+[[menu.main]]
+name = "CONTACT"
+weight = 8
+url = "/contact/"
+
+[params]
+author = "Jin Asanami"
+favicon = "/img/logo.png"
+colorScheme = "auto"
+hideColorSchemeToggle = true
+dateFormat = "2006-01-02"
+since = 2022
+copyright = "Jin Asanami"
+
+[params.hero]
+enable = true
+#intro = ""
+title = "Jin Asanami"
+#subtitle = ""
+content = "麻浪迅のホームページにようこそ！"
+image = "/img/logo.png"
+
+[params.hero.bottomImage]
+enable = false
+
+[[params.hero.socialLinks.customIcons]]
+icon = "/img/logo/9ineverse.png"
+url = "https://9ineverse.com/@hayatehay"
+
+[[params.hero.socialLinks.fontAwesomeIcons]]
+icon = "fab fa-bandcamp"
+url = "https://jinasanami.bandcamp.com"
+
+[[params.hero.socialLinks.fontAwesomeIcons]]
+icon = "fab fa-soundcloud"
+url = "https://soundcloud.com/hayatehay"
+
+[[params.hero.socialLinks.customIcons]]
+icon = "/img/logo/skeb.png"
+url = "https://skeb.jp/@hayatehay"
+
+[[params.hero.socialLinks.fontAwesomeIcons]]
+icon = "fab fa-github"
+url = "https://github.com/hayatehay"
+
+[params.navbar.menus]
+disableAbout = true
+disableNews = false
+disableExperience = true
+disableEducation = true
+disableProjects = true
+disableAchievements = true
+disableContact = true
+
+[params.about]
+enable = true
+title = "ABOUT ME"
+image = "/img/jinasanami.jpg"
+content = """
+<h3>麻浪 迅 (あさなみ・じん)</h3>
+
+2005年2月1日生まれ。生まれも育ちも長野県。
+
+同人サークル「中村音楽工業」を主宰し、音楽作品もそこから発売される。2024年、EP「月影」でCDデビュー。
+
+既存のジャンルに囚われない自由な発想で、新時代のJ-Jazzシーンを切り開く。その一方でゲーム制作やOS開発、Vtuber活動(休止中)など、その手が伸びる先は数知れず。
+"""
+
+[params.news]
+enable = true
+index = false
+title = "NEWS"
+
+#[[params.news.items]]
+#title = "2ndシングル「Alma/哀流」発売"
+#date = "2025/03/05"
+#content= """
+#商品詳細はこちら
+#- [CDエクストラ](/music/nrch-2)
+#- [ミュージックカード](/music/nrmh-2)
+#
+#なお、同時にダウンロード販売も開始しました。
+#"""
+
+[[params.news.items]]
+title = "1stシングル「朝焼け -second track-」ミュージックカード発売"
+date = "2025/01/10"
+content = """
+[商品詳細はこちら](/music/nrmh-1)
+"""
+
+[[params.news.items]]
+title = "Bandcamp配信開始"
+date = "2025/01/10"
+content = """
+音楽配信プラットフォーム「Bandcamp」にて、「月影」「朝焼け -second track-」「DEMO 2024 DEC」の配信が始まりました！
+
+[Jin Asanami/麻浪迅 - Bandcamp](https://jinasanami.bandcamp.com/)
+"""
+
+[[params.news.items]]
+title = "Skeb開設"
+date = "2024/11/07"
+content = """
+コミッションサービス「Skeb」にアカウントを作りました！ご依頼お待ちしております…。
+
+[@hayatehay - Skeb](https://skeb.jp/@hayatehay)
+"""
+
+[[params.news.items]]
+title = "「月影」MP3無料ダウンロードのご案内"
+date = "2024/10/05"
+content = """
+販促のため、MP3ファイルをサウンドクラウドに公開しました→~~https://soundcloud.com/hayatehay/moonlight~~公開終了しました
+
+ダウンロードの際は「More」→「Download File」を選んで下さい。
+
+対象楽曲
+- 月影 (EP「月影」収録)
+"""
+
+[[params.news.items]]
+title = "1st EP「月影」の発売日が決定"
+date = "2024/06/30"
+content = """2024年7月7日の予定です。みんな買ってね！んで友達にも勧めてね！予約は7月1日から受け付け中。
+
+[販売ページ(NMI MUSIC STORE/BOOTH)](https://nmimusic.booth.pm/items/5865685)
+"""
+
+[[params.news.items]]
+title = "ホームページとブログを統合"
+date = "2024/03/25"
+content = """
+いい加減利便性が悪いので統合しました。
+
+テーマはこれを使っています。本当にありがとう。
+
+[Hugo Profile by @gurusabarish](https://github.com/gurusabarish/hugo-profile)
+"""
+
+[[params.news.items]]
+title = "ホームページの移転を開始"
+date = "2023/11/24"
+content = """
+アットウィキからの移転を開始しました。これから色々なコンテンツを公開していくので楽しみに待っててね。
+"""
+
+[params.listPages]
+disableFeaturedImage = false
+
+[params.singlePages]
+socialShare = true
+
+[params.singlePages.readTime]
+enable = false
+content = "min read"
+
+[params.singlePages.scrollprogress]
+enable = true
+
+[params.singlePages.tags]
+openInNewTab = true
+
+  [params.terms]
+  read = "読む"
+  toc = "目次"
+  copyright = "All rights reserved"
+  pageNotFound = "ページが見つかりません"
+  emailText = "Check out this site"
+
+  [params.datesFormat]
+  article = "Jan 2, 2006"
+  articleList = "Jan 2, 2006"
+  articleRecent = "Jan 2, 2006"
+
