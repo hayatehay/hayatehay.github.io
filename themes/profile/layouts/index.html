@@ -13,6 +13,7 @@
 
 {{ define "main" }}
 {{- partial "sections/hero/index.html" . -}}
+{{- partial "sections/carousel.html" (dict "context" . "items" "1" "height" "25" "unit" "%" "duration" "7000") }}
 {{- partial "sections/news.html" . -}}
 {{- partial "sections/about.html" . -}}
 {{- partial "sections/experience.html" . -}}
