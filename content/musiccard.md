@@ -54,7 +54,7 @@ https://jinasanami.bandcamp.com/yum/
 
 Bandcampにログイン済みの方は、アプリを使ってストリーミング再生も可能です(ファンアカウントが必要)。
 - [Android](https://play.google.com/store/apps/details?id=com.bandcamp.android)
-- [iOS](https://itunes.apple.com/us/app/bandcamp/id706408639)
+- [iOS](https://apps.apple.com/jp/app/bandcamp/id706408639)
 
 こちらも参照→[Bandcamp FAQ「トラックをデバイスに直接ダウンロードし別のアプリで聴くことはできますか」](https://get.bandcamp.help/hc/ja/articles/23020707204631-トラックをデバイスに直接ダウンロードし別のアプリで聴くことはできますか)
 
@@ -69,7 +69,7 @@ Bandcampにログイン済みの方は、アプリを使ってストリーミン
 https://jinasanami.bandcamp.com/yum/
 
 2.
-カード裏に記されたダウンロードコードを入力し、「引き換える」もしくは「Redeem」を押して下さい
+カード裏に記されたダウンロードコードを入力し、「引き換える」もしくは「Redeem」を押して下さい。
 
 ※メールアドレスの入力は任意ですが、入力をお勧めします。その際は間違いがないよう十分ご注意下さい。「bandcamp.com」からのメールが受信できるよう設定をしておいて下さい。
 
