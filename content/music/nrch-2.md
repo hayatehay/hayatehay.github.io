@@ -12,11 +12,7 @@ tags:
 - 品番：NRCH-2
 - 価格：￥1,100+消費税
 - 購入
-    - NMI MUSIC STORE(2024年2月26日 予約受け付け開始予定)
-    <!-- - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605148) -->
-- ダウンロード購入
-    - Bandcamp(2024年3月5日 販売開始予定)
-    <!-- [Bandcamp](https://jinasanami.bandcamp.com/album/alma-airu) -->
+    - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605148)
 
 **麻浪迅、魂の2ndシングル。**
 

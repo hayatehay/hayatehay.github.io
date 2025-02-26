@@ -1,5 +1,5 @@
 ---
-title: "朝焼け -second track- [ダウンロード]"
+title: "朝焼け -second track- [デジタルダウンロード]"
 date: 2024-07-14
 image: "/img/music/nrdh-1.png"
 tags:
@@ -11,7 +11,7 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRDH-1
 - 価格：￥400+消費税
-- ダウンロード購入
+- 購入
     - [Bandcamp](https://jinasanami.bandcamp.com/album/sunrise-colours-second-track)
 
 **もう一つの朝焼け、麻浪迅 1stシングル。**

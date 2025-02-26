@@ -13,8 +13,6 @@ tags:
 - 価格：￥1,000+消費税
 - 購入
     - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6371255)
-- ダウンロード購入
-    - [Bandcamp](https://jinasanami.bandcamp.com/album/demo-2024-dec)
 
 「9ineverse非公式オンリーイベント オンラインオフ会」にて限定配布したシングルが、高音質になって帰ってきた！
 
