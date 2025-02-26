@@ -23,12 +23,10 @@ title: '体験版ダウンロード'
 - [全曲クロスフェード (alma-airu-xfade.flac FLAC 8 7.4MB)](https://soundcloud.com/hayatehay/alma-airu-crossfade-demo)
 
 CD-EXTRAを購入
-- 2月26日予約受け付け開始予定
-<!-- - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605148) -->
+- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605148)
 
 ミュージックカードを購入してダウンロード
-- 2月26日予約受け付け開始予定
-<!-- - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491) -->
+- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
 
 デジタルメディアを購入してダウンロード
 - Bandcamp(3月5日販売開始予定)
