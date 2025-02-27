@@ -57,6 +57,7 @@ CD-EXTRAを購入
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/sunrise-colours-second-track)
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946)
 
 ----
 
