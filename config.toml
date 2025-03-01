@@ -124,12 +124,23 @@ enable = true
 index = false
 title = "NEWS"
 
+#[[params.new.items]]
+#title = "DLsiteで一部タイトルの配信開始"
+#date = "2025/03/05"
+#content = """
+#ダウンロード販売サイト「DLsite」で、一部作品の配信を始めました。
+
+#- [月影 (1349990)](https://www.dlsite.com/home/announce/=/product_id/RJ01349990.html
+#- [朝焼け -second track- (1350035)](https://www.dlsite.com/home/announce/=/product_id/RJ01350035.html)
+#- [Alma/哀流 (1350054)](https://www.dlsite.com/home/announce/=/product_id/RJ01350054.html)
+#"""
+
 [[params.news.items]]
 title = "2ndシングル「Alma/哀流」予約受け付け開始"
 #title = "2ndシングル「Alma/哀流」発売"
 date = "2025/02/26"
 #date = "2025/03/05"
-content= """
+content = """
 3月5日発売予定。商品詳細はこちら
 - [CDエクストラ](/music/nrch-2)
 - [ミュージックカード](/music/nrmh-2)

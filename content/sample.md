@@ -29,8 +29,9 @@ CD-EXTRAを購入
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
 
 デジタルメディアを購入してダウンロード
-- Bandcamp(3月5日販売開始予定)
+- Bandcamp（25年3月5日販売開始予定）
 <!-- - [Bandcamp](https://jinasanami.bandcamp.com/album/alma-airu) -->
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01350054.html)（25年3月5日登場予定）
 
 ----
 
@@ -58,7 +59,7 @@ CD-EXTRAを購入
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/sunrise-colours-second-track)
 - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946)
-
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01350035.html)（25年3月5日登場予定）
 ----
 
 ## EP「月影」
@@ -73,5 +74,6 @@ CD-EXTRAを購入
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/tsukikage)
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01349990.html)（25年3月5日登場予定）
 
 ----
