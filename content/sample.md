@@ -5,7 +5,7 @@ title: '体験版ダウンロード'
 販促用のサンプル音源をサウンドクラウドにアップロードしてあります。ダウンロードの際は「More」→「Download File」を選んで下さい。サンプルはFLAC、フルバージョンはMP3です。
 
 <details>
- <summary>ダウンロード手順</summary>
+<summary>ダウンロード手順</summary>
 
 1. ウェブブラウザーで楽曲のページを開く。
 
@@ -29,9 +29,8 @@ CD-EXTRAを購入
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
 
 デジタルメディアを購入してダウンロード
-- Bandcamp（25年3月5日販売開始予定）
-<!-- - [Bandcamp](https://jinasanami.bandcamp.com/album/alma-airu) -->
-- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01350054.html)（25年3月5日登場予定）
+- [Bandcamp](https://jinasanami.bandcamp.com/album/alma-airu)
+- [DLsite](https://www.dlsite.com/home/work/=/product_id/RJ01350054.html)
 
 ----
 
@@ -59,7 +58,7 @@ CD-EXTRAを購入
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/sunrise-colours-second-track)
 - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946)
-- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01350035.html)（25年3月5日登場予定）
+- [DLsite](https://www.dlsite.com/home/work/=/product_id/RJ01350035.html)
 ----
 
 ## EP「月影」
@@ -74,6 +73,6 @@ CD-EXTRAを購入
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/tsukikage)
-- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01349990.html)（25年3月5日登場予定）
+- [DLsite](https://www.dlsite.com/home/work/=/product_id/RJ01349990.html)
 
 ----
