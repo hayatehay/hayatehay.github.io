@@ -21,7 +21,7 @@ GMailを使用。<s>お仕事の依頼や</s>QSL発行はこちらへ。<br>
 - [@jinasanami](https://jinasanami.bandcamp.com)
 
 ## Misskey
-現在私がメインで使用するSNS。メインで使用する「9ineverse.com」の他、「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」にアカウントがある。<br>
+現在私がメインで使用するSNS。メインで使用する「9ineverse.com」の他、「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」、「lokyoski.casacamelia.xyz」にアカウントがある。<br>
 ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@9ineverse.com](https://9ineverse.com/@hayatehay)
 - [@hayatehay@misskey.io](https://misskey.io/@hayatehay)
@@ -30,6 +30,7 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@sushi.ski](https://sushi.ski/@hayatehay)
 - [@hayatehay@misskey.doujin.games](https://misskey.doujin.games/@hayatehay)
 - [@hayatehay@misskey.neos21.net](https://misskey.neos21.net/@hayatehay)
+- [@hayatehay@lokyoski.casacamelia.xyz](https://lokyoski.casacamelia.xyz/@hayatehay)
 
 ## Mastodon
 「Mastodon.social」と「fedibird.com」サーバーにアカウントがあるが、あまり出没しない。<br>
