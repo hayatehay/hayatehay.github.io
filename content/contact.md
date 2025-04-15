@@ -24,6 +24,7 @@ GMailを使用。<s>お仕事の依頼や</s>QSL発行はこちらへ。<br>
 現在私がメインで使用するSNS。メインで使用する「9ineverse.com」の他、「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」、「lokyoski.casacamelia.xyz」にアカウントがある。<br>
 ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@9ineverse.com](https://9ineverse.com/@hayatehay)
+- [@jinasanami@prismisskey.space](https://prismisskey.space/@jinasanami)
 - [@hayatehay@misskey.io](https://misskey.io/@hayatehay)
 - [@hayatehay@misskey.design](https://misskey.design/@hayatehay)
 - [@hayatehay@nijimiss.moe](https://nijimiss.moe/@hayatehay)
