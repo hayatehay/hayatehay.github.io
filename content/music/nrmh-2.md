@@ -12,8 +12,7 @@ tags:
 - 品番：NRCH-2
 - 価格：￥1,100+消費税
 - 購入
-    - NMI MUSIC STORE(2024年2月6日 予約受け付け開始)
-    <!-- - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491) -->
+    - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
 
 **麻浪迅、魂の2ndシングル。**
 
