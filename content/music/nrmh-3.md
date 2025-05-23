@@ -23,16 +23,16 @@ draft: true
 麻浪迅初のフルアルバムにして、初のCD-DA。
 
 ## 収録曲(順番未定)
-Case 14106
-瑠璃空
-愛のオーバーフロウ
-Lagging Rag
-ネオン
-2_00am
-Blue Crawler
-涙
-Sunlight Vision
-膝枕
-優しい声
-明日へと続く道
-月影
+- Case 14106
+- 瑠璃空
+- 愛のオーバーフロウ
+- Lagging Rag
+- ネオン
+- 2:00am
+- Blue Crawler
+- 涙
+- Sunlight Vision
+- 膝枕
+- 優しい声
+- 明日へと続く道
+- 月影
