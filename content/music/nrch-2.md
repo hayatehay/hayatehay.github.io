@@ -1,6 +1,6 @@
 ---
 title: "Alma/哀流 [CDエクストラ]"
-date: 2025-02-22
+date: 2025-03-05
 image: "/img/music/nrch-2.png"
 tags:
 - CDエクストラ

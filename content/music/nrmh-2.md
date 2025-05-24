@@ -1,6 +1,6 @@
 ---
 title: "Alma/哀流 [ミュージックカード]"
-date: 2025-02-22
+date: 2025-03-05
 image: "/img/music/nrmh-2.png"
 tags:
 - ミュージックカード
