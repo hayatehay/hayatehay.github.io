@@ -29,7 +29,6 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@nijimiss.moe](https://nijimiss.moe/@hayatehay)
 - [@hayatehay@sushi.ski](https://sushi.ski/@hayatehay)
 - [@hayatehay@misskey.doujin.games](https://misskey.doujin.games/@hayatehay)
-- [@hayatehay@misskey.neos21.net](https://misskey.neos21.net/@hayatehay)
 - [@hayatehay@lokyoski.casacamelia.xyz](https://lokyoski.casacamelia.xyz/@hayatehay)
 
 ## Mastodon
