@@ -20,7 +20,7 @@ tags:
 
 176.4kHz 24bitのPCMマスターを基に、全曲2.8MHz/1bitでリマスターを実施。より「月影」の真髄に迫るディスク。
 
-※DSDディスクは、「ダイレクトストリームデジタル」方式で音声を記録したDVD-ROMです。DSD、Direct Stream Digital、DSD Disc Format、並びにDSDロゴはソニーグループ株式会社の登録商標です。 「DVD±Rに焼いたDSFファイル」に対応するプレイヤーで再生して下さい。
+※DSDディスクは、デルタシグマPDM方式で音声を記録したDVD-ROMです。DSD、Direct Stream Digital、DSD Disc Format、並びにDSDロゴはソニーグループ株式会社の登録商標です。 「DVD±Rに焼いたDSFファイル」に対応するプレイヤーで再生して下さい。
 
 ## 収録曲
 1. 月影 (4:03)

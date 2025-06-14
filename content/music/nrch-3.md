@@ -4,7 +4,7 @@ date: 2025-07-07
 image: "/img/music/nrch-3.png"
 tags:
 - CD-DA
-- アルバム
+- LP
 draft: true
 ---
 
@@ -20,7 +20,7 @@ draft: true
 
 **ジャズってのはなぁ、こうやるんだよ！**
 
-麻浪迅初のフルアルバムにして、初のCD-DA。
+麻浪迅初のLPにして、初のCD-DA。
 
 ## 収録曲(順番未定)
 - Case 14106
