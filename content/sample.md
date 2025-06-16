@@ -21,7 +21,7 @@ title: '体験版ダウンロード'
 ## シングル「9inth Story」
 2025年5月1日～31日の期間中に公開
 
-- [無料ダウンロード (01 9inth Story.flac FLAC 8 22.5MB)](https://soundcloud.com/hayatehay/9inth-story)
+- ~~無料ダウンロード (01 9inth Story.flac FLAC 8 22.5MB)~~ **公開終了**
 
 ----
 
