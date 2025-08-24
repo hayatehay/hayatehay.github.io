@@ -18,6 +18,26 @@ title: '体験版ダウンロード'
 
 ----
 
+## EP
+2025年9月26日発売予定
+
+- [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/hayatehay/exsultatio-xfade-demo)
+
+<!--
+ミュージックカードを購入してダウンロード
+- NMI MUSIC STORE
+- メロンブックス
+-->
+
+デジタルメディアを購入してダウンロード
+- [Bandcamp](https://jinasanami.bandcamp.com/album/exsultatio)（9月5日先行発売予定）
+<!--
+- [メロンブックス]
+- [DLsite]
+-->
+
+----
+
 ## シングル「9inth Story」
 2025年5月1日～31日の期間中に公開
 
