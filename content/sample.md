@@ -18,7 +18,7 @@ title: '体験版ダウンロード'
 
 ----
 
-## EP
+## EP「Exsultatio」
 2025年9月26日発売予定
 
 - [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/hayatehay/exsultatio-xfade-demo)
