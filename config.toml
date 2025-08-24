@@ -126,6 +126,19 @@ index = false
 title = "NEWS"
 
 [[params.news.items]]
+title = "2nd EP「Exsultatio」発売決定"
+date = "2025/08/24"
+content = """
+9月26日発売予定。商品詳細はこちら
+- [ミュージックカード](/music/nrmh-3)
+- [DSDディスク](/music/nrgh-2)
+
+※ミュージックカードのご利用方法は、[こちらのページ](/musiccard/)をご覧下さい。
+
+なお、Bandcampでは9月5日、その他のサイトでは9月26日ににダウンロード販売を開始する予定です。
+"""
+
+[[params.news.items]]
 title = "DLsiteで一部タイトルの配信開始"
 date = "2025/03/05"
 content = """
@@ -137,7 +150,7 @@ content = """
 """
 
 [[params.news.items]]
-title = "2ndシングル「Alma/哀流」発売"
+title = "2nd SP「Alma/哀流」発売"
 date = "2025/03/05"
 content = """
 3月5日発売。商品詳細はこちら
@@ -150,7 +163,7 @@ content = """
 """
 
 [[params.news.items]]
-title = "1stシングル「朝焼け -second track-」ミュージックカード発売"
+title = "1st SP「朝焼け -second track-」ミュージックカード発売"
 date = "2025/01/10"
 content = """
 [商品詳細はこちら](/music/nrmh-1)
