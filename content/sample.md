@@ -70,9 +70,6 @@ CD-EXTRAを購入
 CD-EXTRAを購入
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6371255/)
 
-デジタルメディアを購入してダウンロード
-- [Bandcamp](https://jinasanami.bandcamp.com/album/demo-2024-dec)
-
 ----
 
 ## シングル「朝焼け -second track-」
