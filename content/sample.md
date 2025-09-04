@@ -30,7 +30,7 @@ title: '体験版ダウンロード'
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/exsultatio)（9月5日先行発売予定）
 - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3218343)
-- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01350054.html)
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01457234.html)
 
 ----
 
