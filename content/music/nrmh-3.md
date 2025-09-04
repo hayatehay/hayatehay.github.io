@@ -11,11 +11,10 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRMH-3
 - 価格：￥1,200+消費税
-<!--
 - 購入
-    - NMI MUSIC STORE
-    - メロンブックス
--->
+    - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7267743)
+    - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111)
+
 
 **自由な陶酔の世界へ、ようこそ…。麻浪迅 2nd EP**
 

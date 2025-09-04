@@ -23,18 +23,14 @@ title: '体験版ダウンロード'
 
 - [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/hayatehay/exsultatio-xfade-demo)
 
-<!--
 ミュージックカードを購入してダウンロード
-- NMI MUSIC STORE
-- メロンブックス
--->
+- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7267743)
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111)
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/exsultatio)（9月5日先行発売予定）
-<!--
-- [メロンブックス]
-- [DLsite]
--->
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3218343)
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01350054.html)
 
 ----
 
