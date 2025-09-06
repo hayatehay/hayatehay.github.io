@@ -25,8 +25,8 @@ tags:
 ※DSDディスクは、デルタシグマPDM方式で音声を記録したDVD-ROMです。DSD、Direct Stream Digital、DSD Disc Format、並びにDSDロゴはソニーグループ株式会社の登録商標です。 「DVD±Rに焼いたDSFファイル」に対応するプレイヤーで再生して下さい。
 
 ## 収録曲
-1. Diver In The Town
-2. Liquido
-3. Luna Nuova
-4. この気持ちに名前を付けるなら
-5. Exsultatio
+1. Diver In The Town (6:20)
+2. Liquido (7:16)
+3. Luna Nuova (4:46)
+4. この気持ちに名前を付けるなら (4:52)
+5. Exsultatio (6:25)

@@ -23,6 +23,9 @@ title: '体験版ダウンロード'
 
 - [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/hayatehay/exsultatio-xfade-demo)
 
+CD-EXTRAを購入
+- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7393888)
+
 ミュージックカードを購入してダウンロード
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7267743)
 - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111)

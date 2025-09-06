@@ -5,9 +5,9 @@ title: "ディスコグラフィ"
 <details>
 <summary>ジャンルで探す</summary>
 
-<!-- - [アルバム](/tags/アルバム)-->
-- [EP](/tags/ep/)
-- [シングル](/tags/シングル)
+<!-- - [フル・アルバム（LP）](/tags/lp)-->
+- [ミニ・アルバム（EP）](/tags/ep/)
+- [シングル（SP）](/tags/sp)
 
 </details>
 
@@ -20,7 +20,7 @@ title: "ディスコグラフィ"
 - [ダウンロード](/tags/ダウンロード)
 - [DVDオーディオ](/tags/dvd-audio)
 - [DSDディスク](/tags/dsdディスク)
-<!-- - [アナログレコード](/tags/analogue)-->
+<!-- - [グラモフォン](/tags/gramophone)-->
 
 </details>
 
