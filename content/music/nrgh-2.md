@@ -1,7 +1,7 @@
 ---
 title: "Exsultatio [DSD Disc Format]"
 date: 2025-08-24
-image: "/img/music/nrmh-3.png"
+image: "/img/music/nrgh-2.png"
 tags:
 - ミュージックカード
 - アルバム
