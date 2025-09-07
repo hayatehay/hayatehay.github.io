@@ -97,6 +97,7 @@ CD-EXTRAを購入
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/tsukikage)
+- [メロンブックス](<https://www.melonbooks.co.jp/detail/detail.php?product_id=3227526)
 - [DLsite](https://www.dlsite.com/home/work/=/product_id/RJ01349990.html)
 
 ----
