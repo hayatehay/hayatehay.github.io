@@ -18,8 +18,15 @@ title: '体験版ダウンロード'
 
 ----
 
+## SP「幻聴インヴィテーション」
+2025年12月31日先行発売予定
+
+- [全曲クロスフェード (gencho-invitation-spin-style.flac FLAC 8 21.7MB)](https://soundcloud.com/hayatehay/gencho-invitation-spin-style)
+
+----
+
 ## EP「Exsultatio」
-2025年9月26日発売予定
+2025年9月26日発売
 
 - [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/hayatehay/exsultatio-xfade-demo)
 
@@ -37,14 +44,14 @@ CD-EXTRAを購入
 
 ----
 
-## シングル「9inth Story」
+## SP「9inth Story」
 2025年5月1日～31日の期間中に公開
 
 - ~~無料ダウンロード (01 9inth Story.flac FLAC 8 22.5MB)~~ **公開終了**
 
 ----
 
-## シングル「Alma/哀流」
+## SP「Alma/哀流」
 2025年3月5日発売
 
 - [全曲クロスフェード (alma-airu-xfade.flac FLAC 8 7.4MB)](https://soundcloud.com/hayatehay/alma-airu-crossfade-demo)
@@ -61,7 +68,7 @@ CD-EXTRAを購入
 
 ----
 
-## スペシャルシングル「DEMO 2024 DEC」
+## 公式ブートレッグSP「DEMO 2024 DEC」
 2024年12月21日発売
 
 - [全曲クロスフェード (demo-2024-dec-xfade.flac FLAC 8 11.0MB)](https://soundcloud.com/hayatehay/demo-2024-dec-crossfade-demo)
@@ -71,7 +78,7 @@ CD-EXTRAを購入
 
 ----
 
-## シングル「朝焼け -second track-」
+## SP「朝焼け -second track-」
 2024年7月14日発売
 
 - [朝焼け -second track- DEMO (sunrise-colours-second-track-demo.flac FLAC 8 6.2MB)](https://soundcloud.com/hayatehay/sunrise-colours-second-track-demo) 
