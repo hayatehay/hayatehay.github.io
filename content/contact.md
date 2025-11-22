@@ -11,17 +11,19 @@ GMailを使用。<s>お仕事の依頼や</s>QSL発行はこちらへ。<br>
 **<font color="#ff0000">※現在メールでのお仕事は受け付けておりません。</font>**
 - hayatehay.njb at gmail.com
 
+<!---
 ## Skeb
 コミッションサービス。1曲単位で請け負うため、イベントなどのテーマ曲の作曲依頼に最適？<br>
 逆にゲームのBGMなどといった複数楽曲の依頼にはあまり適合しない。
 - [@hayatehay](https://skeb.jp/@hayatehay)
+-->
 
 ## Bandcamp
 音楽のダウンロード販売サイト。
 - [@jinasanami](https://jinasanami.bandcamp.com)
 
 ## Misskey
-現在私がメインで使用するSNS。メインで使用する「prismisskey.space」の他、「misskey.day」「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」、「lokyoski.casacamelia.xyz」にアカウントがある。<br>
+現在私がメインで使用するSNS。メインで使用する「prismisskey.space」の他、「misskey.day」「misskey.io」「misskey.design」「nijimiss.moe」「sushi.ski」「misskey.doujin.games」「lokyoski.casacamelia.xyz」にアカウントがある。<br>
 ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@jinasanami@prismisskey.space](https://prismisskey.space/@jinasanami)
 - [@hayatehay@misskey.day](https://misskey.day/@jinasanami)
@@ -69,5 +71,5 @@ ATプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay](https://discordapp.com/users/700138315889901650)
 
 ## エックス(旧ツイッター)
-偽物対策。IVEのライブを観に行った話は9ineverseと並行で。
+偽物対策。IVEのライブを観に行った話はふじさんすきーと並行で。
 - [@hayatehay](https://x.com/hayatehay)

@@ -109,7 +109,7 @@ disableContact = true
 [params.about]
 enable = true
 title = "ABOUT ME"
-image = "/img/jinasanami.jpg"
+image = "/img/jinasanami.png"
 content = """
 <h3>麻浪 迅 (あさなみ・じん)</h3>
 
