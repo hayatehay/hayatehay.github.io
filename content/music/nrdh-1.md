@@ -4,7 +4,7 @@ date: 2024-07-14
 image: "/img/music/nrdh-1.png"
 tags:
 - ダウンロード
-- シングル
+- SP
 ---
 
 - 発売：2024年7月14日

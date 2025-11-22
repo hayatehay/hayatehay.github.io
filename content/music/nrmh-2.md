@@ -4,7 +4,7 @@ date: 2025-03-05
 image: "/img/music/nrmh-2.png"
 tags:
 - ミュージックカード
-- シングル
+- SP
 ---
 
 - 発売：2024年3月5日

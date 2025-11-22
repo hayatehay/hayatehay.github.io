@@ -4,7 +4,7 @@ date: 2025-03-05
 image: "/img/music/nrch-2.png"
 tags:
 - CDエクストラ
-- シングル
+- SP
 ---
 
 - 発売：2024年3月5日

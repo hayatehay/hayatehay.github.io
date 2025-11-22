@@ -30,12 +30,12 @@ title: '体験版ダウンロード'
 
 - [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/hayatehay/exsultatio-xfade-demo)
 
-CD-EXTRAを購入
-- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7393888)
-
 ミュージックカードを購入してダウンロード
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7267743)
 - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111)
+
+CD-EXTRAを購入
+- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7393888)
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/exsultatio)（9月5日先行発売予定）
@@ -56,11 +56,11 @@ CD-EXTRAを購入
 
 - [全曲クロスフェード (alma-airu-xfade.flac FLAC 8 7.4MB)](https://soundcloud.com/hayatehay/alma-airu-crossfade-demo)
 
-CD-EXTRAを購入
-- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605148)
-
 ミュージックカードを購入してダウンロード
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
+
+CD-EXTRAを購入
+- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605148)
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/alma-airu)
@@ -100,7 +100,6 @@ CD-EXTRAを購入
 
 CD-EXTRAを購入
 - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
-- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472)
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/tsukikage)

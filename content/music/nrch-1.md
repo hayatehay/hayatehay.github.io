@@ -13,7 +13,6 @@ tags:
 - 価格：￥1,500+消費税
 - 購入
     - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
-    - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472)
 
 **その響きは、月夜を彩る。**
 
