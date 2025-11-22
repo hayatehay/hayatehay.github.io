@@ -383,13 +383,13 @@ header .navbar.animate {
     opacity: 0.7;
 }
 
-/* News */
+/* Education */
 
-#news .container > h3 {
+#education .container > h3 {
     color: var(--text-secondary-color) !important;
 }
 
-#news .row .index {
+#education .row .index {
     opacity: 0.8;
     padding: 13px 20px;
     line-height: 0%;
@@ -401,11 +401,11 @@ header .navbar.animate {
     font-weight: bold;
 }
 
-#news .card * {
+#education .card * {
     background-color: var(--secondary-color) !important;
 }
 
-#news .card {
+#education .card {
     border-radius: 1.5rem;
     box-shadow: 0px 8px 56px rgb(15 80 100 / 16%);
     border: 2px solid var(--text-secondary-color) !important;
@@ -413,7 +413,7 @@ header .navbar.animate {
     transition: transform 0.2s;
 }
 
-#news .card .card-body {
+#education .card .card-body {
     border-radius: 1.5rem;
     padding: 2rem;
 }
