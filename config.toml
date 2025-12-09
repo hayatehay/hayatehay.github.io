@@ -65,6 +65,7 @@ hideColorSchemeToggle = true
 dateFormat = "2006-01-02"
 since = 2022
 copyright = "Jin Asanami"
+buildFuture = true
 
 [params.hero]
 enable = false
