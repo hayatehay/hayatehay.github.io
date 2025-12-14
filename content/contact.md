@@ -33,6 +33,7 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@hayatehay@sushi.ski](https://sushi.ski/@hayatehay)
 - [@hayatehay@misskey.doujin.games](https://misskey.doujin.games/@hayatehay)
 - [@hayatehay@lokyoski.casacamelia.xyz](https://lokyoski.casacamelia.xyz/@hayatehay)
+- [@jinasanami@mi.aono.space](https://mi.aono.space/@jinasanami)
 
 ## Mastodon
 「Mastodon.social」と「fedibird.com」サーバーにアカウントがあるが、あまり出没しない。<br>
