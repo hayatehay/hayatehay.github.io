@@ -12,7 +12,7 @@ tags:
 - 品番：NRCH-3
 - 価格：￥1,500+消費税
 - 購入
-    - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7393888)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7393888)
 
 **自由な陶酔の世界へ、ようこそ…。麻浪迅 2nd EP**
 

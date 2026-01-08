@@ -11,6 +11,9 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRMH-4
 - 価格：￥600+消費税
+- 購入
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7634881)
+
 
 **麻浪迅 3rd SPで、懐かしい未来が甦る。**
 

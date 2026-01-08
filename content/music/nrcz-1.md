@@ -12,13 +12,13 @@ tags:
 - 品番：NRCZ-1
 - 価格：￥1,000+消費税
 - 購入
-    - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6371255)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6371255)
 
 「9ineverse非公式オンリーイベント オンラインオフ会」にて限定配布したシングルが、高音質になって帰ってきた！
 
 2024年7月発売のEP「月影」に収録されたテクノジャズ「blank」を大胆にスウィングアレンジ。またサウンドクラウドにて1分程度のフェードデモのみ公開された2曲を全尺収録。
 
-NMI MUSIC STORE及び各種イベント限定で販売。
+RURITANIA MUSIC STORE及び各種イベント限定で販売。
 
 ## 収録曲
 1. blank -lounge at 22 o’clock remix- (3:44)

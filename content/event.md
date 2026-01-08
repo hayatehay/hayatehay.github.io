@@ -7,7 +7,7 @@ title: 'イベント情報'
 ## 2025/04/13 ココクラ フリーマーケット
 CDエクストラ/ミュージックカードを販売予定。
 
-詳しくは→[NMI公式サイトの告知](https://nmimusic.github.io/blog/20250328/)
+詳しくは→[RURITANIA公式サイトの告知](https://nmimusic.github.io/blog/20250328/)
 
 ## 2024/12/14 pictSQUARE 9ineverse非公式オンリーイベント
 デモ楽曲を3曲無料公開。

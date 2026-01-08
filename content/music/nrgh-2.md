@@ -12,7 +12,7 @@ tags:
 - 品番：NRGH-2
 - 価格：￥1,700+消費税
 - 購入
-    - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/7345968)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7345968)
 
 **自由な陶酔の世界へ、ようこそ…。麻浪迅 2nd EP**
 

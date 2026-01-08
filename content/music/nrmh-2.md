@@ -12,7 +12,7 @@ tags:
 - 品番：NRMH-2
 - 価格：￥600+消費税
 - 購入
-    - [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
 
 **麻浪迅、魂の2ndシングル。**
 
